@@ -9,3 +9,5 @@ elettronica padovana
 ###PERIFERICHE
 tastiera1
 tastiera2
+topolino
+topolino
