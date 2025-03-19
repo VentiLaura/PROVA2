@@ -7,3 +7,5 @@ copio tutti i processori
 elettronica padovana
 
 ###PERIFERICHE
+topolino
+topolino
